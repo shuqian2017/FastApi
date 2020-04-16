@@ -2,7 +2,7 @@
 """
 @project: 新建文件夹
 @author: Administrator
-@file: main.py
+@file: main_demo.py
 @time: 2020-04-07 17:52:37
 # code is far away from bugs with the god animal protecting
     I love animals. They taste delicious.
